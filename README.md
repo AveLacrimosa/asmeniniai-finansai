@@ -5,7 +5,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/), [Nod
 $ git clone 
 
 # Go into the repository
-$ cd Event_Page
+$ cd asmeniniai-finansai
 
 # Install dependencies
 $ npm install
